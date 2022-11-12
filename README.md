@@ -6,7 +6,5 @@ explanations. For the remaining topics, discuss them as a whole group.
 
 - Node Package Manager
 - Imperative vs Declarative
-- Components
 - JSX
 - Imports and Exports
-- Props
